@@ -1,0 +1,26 @@
+{
+  "name": "online-code-updater",
+  "version": "1.0.0",
+  "description": "Lets you commit development files online without publishing official releases that can update live, etc. (A worse dev branch alternative)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listingclown3/online-code-updater.git"
+  },
+  "keywords": [
+    "code-updater",
+    "live-coding"
+  ],
+  "author": "listingclown3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/listingclown3/online-code-updater/issues"
+  },
+  "homepage": "https://github.com/listingclown3/online-code-updater#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
